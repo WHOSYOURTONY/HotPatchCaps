@@ -227,9 +227,10 @@ This repository is released for research and educational purposes.
 
 ---
 
+
 > **Note**
 >
-> This repository was reorganized and annotated by an AI agent (Claude) for portfolio demonstration purposes.
-> It is a curated and simplified extract of the original research codebase — not the full, original implementation.
-> Code structure, comments, and documentation have been edited for clarity and public readability.
-> For the authoritative implementation and results, refer to the original paper.
+> This repository provides a simplified research companion implementation of HotPatchCaps for demonstration and reproducibility support. 
+> Some engineering details may differ from the final manuscript presentation. 
+> Please use the paper as the authoritative source for the method description, experimental setup, and claims.
+
