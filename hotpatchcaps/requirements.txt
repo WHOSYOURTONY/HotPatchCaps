@@ -1,0 +1,25 @@
+# HotPatchCaps — Python dependencies
+# Tested on Python 3.9+
+
+# Deep learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# NLP / datasets
+transformers>=4.30.0
+datasets>=2.12.0
+
+# Feature engineering and evaluation
+scikit-learn>=1.2.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# Data handling
+pandas>=2.0.0
+
+# Visualisation
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional: UMAP embedding visualisation
+# umap-learn>=0.5.3
